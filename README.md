@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Deshmukh</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fsoftware-code&psig=AOvVaw2w75W9skEcbO80B5aR2hYs&ust=1716455057670000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPDF5MHzoIYDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlyN3k1b2JkdXo0eWN4cW5rZThrb2cwMGtjdHI1aWxlbmhzamZuYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 📫 How to reach me **gauravdeshmukh332@gmail.com**
 
